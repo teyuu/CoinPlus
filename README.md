@@ -1,6 +1,6 @@
 # Grupal Project - Coin+
 
-CoinPlus, a web app for Henry final bootcamp project. 
+CoinPlus it's a Web App that offers cryptocurrency exchange serviceson the Etherium network. You can buy cripto, exchange it for another crypto or sell it back again.
 
 
 ‍🌐 Technologies:
